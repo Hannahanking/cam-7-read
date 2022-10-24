@@ -1,0 +1,244 @@
+._collins_c body{
+  font-family:"Segoe UI", Arial, "Microsoft Yahei", sans-serif;
+}
+._collins_c .wordf {
+  color: #172626;
+  display: inline;
+  padding-left: 8px;
+  padding-right: 8px;
+  box-shadow: #808080;
+ }
+._collins_c .word_header_word{
+  display:none;
+  font-weight: bold;
+}
+._collins_c .word_header_star{
+  color: #FFBB00;
+}
+._collins_c .word_header{
+  padding-bottom: 5px;
+}
+._collins_c .part_list{
+  line-height: 1.4em;
+  padding: 8px 12px;
+  border-top: 1px dotted #009FCC;
+  border-bottom: 1px dotted #009FCC;
+}
+._collins_c .part_list ul li{
+font-size: 14px;
+font-weight: normal;
+line-height: 19px;
+color: #000;
+display: block;
+}
+._collins_c .break_bar{
+line-height: 24px;
+margin: 10px 0 0 0;
+border-bottom: 1px solid #009FCC;
+overflow: hidden;
+box-shadow: #808080
+}
+._collins_c .part_list_d{
+margin: 0;
+padding: 1px 18px;
+border-radius: 0px 8px 1px 0px;
+float: left;
+font-weight: bold;
+}
+._collins_c .part_number{
+      color:#FFFFFF;
+      
+font-size: 14px;
+}
+._collins_c .explanation_item .en_tip{
+    padding-left: 4px;
+    border: 1px solid #AEAEAE;
+    padding-right: 0;
+    padding-bottom: 4px;
+    border-radius: 6px;
+    margin: 2px 3px 4px 3px;
+    box-shadow: #808080
+}
+._collins_c .explanation_item .en_tip .text_blue
+ {
+color: #4682B4;
+font-size: 14px;
+padding-left: 4px;
+box-shadow: #808080
+}
+._collins_c .explanation_item > ul > li.en_tip > ul > li > p.sentence_en > span
+ {
+     color: #000000;
+     font-weight: bold
+ }
+._collins_c .explanation_item ul .en_tip .vli li{
+      padding-left: 15px;
+      margin-left: 0;
+      border-left-width: 0;
+  }
+._collins_c .en_tip p{
+font-size: 14px;
+font-weight: normal;
+line-height: 19px;
+margin: 0;
+padding: 0;
+}
+._collins_c .explanation_item{
+  margin: 0 5px;
+  border-top: 1px solid #d5d5d5;
+}
+._collins_c .explanation_box{
+  font-size: 1em;
+  font-weight: normal;
+  padding: 5px 0;
+}
+._collins_c .item_number{
+display: none;
+font-size: 12px;
+font-weight: bold;
+border: 1px solid #ABC7DE;
+border-radius: 3px;
+margin-right: 4px;
+padding: 0 6px;
+height: 13px;
+}
+._collins_c  .item_number a {
+  color: #0d47a1;
+  text-decoration: none;
+ }
+._collins_c .explanation_label{
+font-weight: normal;
+color: #000;
+font-size: 13px;
+font-family: Arial;
+padding-left: 0;
+padding-right: 0;
+box-shadow: #808080
+}
+._collins_c .explanation_box .text_blue{
+font-weight: normal;
+line-height: 1.4em;
+color: #0d47a1;
+padding-left: 4px;
+}
+._collins_c li .sentence_en .text_blue {
+    font-weight: bold;
+}
+._collins_c .explanation_item ul{
+  font-size: 0.8em;
+  margin: 0 0 8px;
+  padding: 3px 0;
+  background: #e6ecf5;
+  border-radius: 5px;
+  list-style: square inside;
+}
+._collins_c .explanation_item ul:empty{
+    margin:0;
+    padding:0;
+}
+
+._collins_c .explanation_item ul li{
+  padding: 5px 10px;
+}
+._collins_c .explanation_item ul li+li{
+  display:none;
+}
+._collins_c .sentence_en{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+._collins_c .explanation_item ul li p{
+  display:inline;
+}
+._collins_c .explanation_item ul li p+p {
+  color: #0d47a1;
+  margin-left:5px;
+}
+._collins_c .vExplain_s{
+ padding-left: 6px;
+ padding-right: 4px;
+ font-size: 14px
+}
+._collins_c .explanation_box  dt{
+    margin-left: 40px;
+}
+._collins_c .vEn_tip{
+    padding-left: 4px;
+    padding-top: 6px;
+    border: 1px dotted #010509;
+    border-radius: 4px;
+    padding-bottom: 6px;
+    margin: 6px;
+    box-shadow: #808080;
+    font-size: 16px
+    }
+._collins_c .vEn_tip p
+ {
+     margin-top: 4;
+     border-bottom-width: 0;
+     margin-bottom: 0
+ }
+._collins_c .vExplain_r{
+    padding-left: 0;
+    border: 1px solid #AEAEAE;
+    padding-right: 0;
+    margin-bottom: 4px;
+    margin-left: 3px;
+    margin-right: 3px;
+    border-radius: 6px;
+    padding-bottom: 4px
+    }
+._collins_c .vExplain_r .text_blue{
+    border-width: 0;
+    padding: 0;
+    padding-left: 6px;
+    box-shadow: #808080
+}
+._collins_c .vExplain_r ul{
+    margin-left: 0;
+    margin: 0;
+    border-width: 0;
+    padding: 0;
+    box-shadow: #808080;
+}
+._collins_c .vExplain_r ul li{
+    list-style-type:none;
+    font-size: 14px;
+    }
+._collins_c .vExplain_r ul li p{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 19px;
+    padding-right: 4px;
+    box-shadow: #808080
+}
+._collins_c .vExplain_r .sentence_en{
+    font-size: 16px;
+}
+._collins_c .vExplain_r .sentence_en .text_blue{
+    margin: 0;
+    border-width: 0;
+    padding: 0;
+    box-shadow: #808080
+}
+._collins_c .word_gram{
+    display: inline;
+    font-family: Arial;
+    font-size: 12px
+}
+._collins_c .word_gram div
+ {
+     display: inline
+ }
+._collins_c  .seealso
+ {
+     padding-left: 4px;
+     box-shadow: #808080
+ }
+._collins_c .p1122
+ {
+ color: #000000;
+     display: inline;
+     padding-left: 4px;
+     box-shadow: #808080
+ }
